@@ -24,4 +24,5 @@
 
 Apaixonado por tecnologia e cursando Técnico em Desenvolvimento de Sistemas
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/estevan324/estevan324/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/estevan324/estevan324/blob/output/github-contribution-grid-snake.svg)
+
